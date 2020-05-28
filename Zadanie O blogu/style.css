@@ -1,0 +1,27 @@
+
+h1{
+    font-family: 'Roboto';
+    color: red;
+}
+.e{
+color: magenta;
+size: 2cm;
+cursor: pointer;
+height:100px;
+font-family: 'Roboto' , sans-serif; 
+font-size : 20px;
+}
+.a{
+    color: orange;
+    right:200px;
+}
+h2{
+    color: cyan;
+}
+
+h3{
+    color: darkblue;
+}
+h4{
+    color: darkkhaki;
+}
